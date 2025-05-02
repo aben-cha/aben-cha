@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?w=2000">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aben-cha&label=Profile%20views&color=0e75b6&style=flat" alt="aben-cha" /> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **JavaScript, and Fastify for scalable back-end development.**
 
-- 💬 Ask me about ** C, JAVA..**
+- 💬 Ask me about ** C, JAVA, C++..**
 
 - 📫 How to reach me **ayoubbenchafai3@gmail.com**
 
