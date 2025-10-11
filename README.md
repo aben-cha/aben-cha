@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, and Fastify for scalable back-end development.**
 
-- 💬 Ask me about ** C, JAVA, C++..**
+- 💬 Ask me about ** C, C++..**
 
 - 📫 How to reach me **ayoubbenchafai3@gmail.com**
 
