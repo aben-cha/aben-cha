@@ -1,5 +1,5 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/aben-cha" alt="aben-cha's 42 stats" /></a><h1 align="center">Hi 👋, I'm BEN CHAFAI AYOUB</h1>
-<h3 align="center">Software Engineer</h3>
+<h2 align="center">Software Engineer</h2>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?w=2000">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aben-cha&label=Profile%20views&color=0e75b6&style=flat" alt="aben-cha" /> </p>
 
