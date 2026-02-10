@@ -1,11 +1,13 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/aben-cha" alt="aben-cha's 42 stats" /></a><h1 align="center">Hi 👋, I'm BEN CHAFAI AYOUB</h1>
-<h3 align="center">Web developer</h3>
+<h3 align="center">Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?w=2000">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aben-cha&label=Profile%20views&color=0e75b6&style=flat" alt="aben-cha" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, and Fastify for scalable back-end development.**
+- 🚀 Tech Stack **JavaScript, TypeScript · React / Next.js · Node.js · PostgreSQL / SQL · Docker · Git / GitHub ·**
+  
+- 🌱 I’m currently learning **Python · AI / LLM APIs.**
 
-- 💬 Ask me about ** C, C++..**
+- 💬 Ask me about **C · C++ · TypeScript · React / Next.js · Node.js**
 
 - 📫 How to reach me **ayoubbenchafai3@gmail.com**
 
